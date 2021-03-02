@@ -24,6 +24,7 @@
 - Vi kan hoppe over de andre elementene, så vi trykker på [ Meld inn tjenesten ].
 
 - Får beskjed om at tjenesten må godkjennes av Feide. Feide-personell kan trykke på [ Godkjenn ny tjeneste ].
+  Administratorer i testorganisasjonen kan i stedet lage en ny konfigurasjon for en eksisterende tjeneste.
 
 - Akkurat nå må man fremdeles taste inn manuelt lenken for å komme til siden hvor man kan registrere OpenID
   Connect-konfigurasjoner. Lenken er
